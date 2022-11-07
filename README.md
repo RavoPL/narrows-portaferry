@@ -37,3 +37,11 @@
 * Simple and intuitive navigation system.
 * A glitchless experience with functions that work properly.
 * Excellent webpage design with an appealing, industry standard aesthetic, that seamlessly fits to any screen size.
+* A level of accessibility for customers with disabilities.
+* Good presentation practices with suitable font types, font sizes and colours of backgrounds.
+
+### Customer Stories and Desires
+
+#### First-time Customer
+
+1. As a new user I want to know where exactly the restaurant is located.
