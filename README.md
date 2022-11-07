@@ -45,3 +45,10 @@
 #### First-time Customer
 
 1. As a new user I want to know where exactly the restaurant is located.
+2. I want to know the price range so I can compare it with other restaurants in the area.
+3. I'd like to know more about the hours of opening, the special offers and the catering for special events.
+4. I'd want to be able to make orders from the webpage without having to make a separate account.
+
+#### Returning Customer
+
+1. 
