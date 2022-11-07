@@ -1,4 +1,4 @@
-# Polskie Smaki
+# Narrows Portaferry
 (Developer and Author: Dorian Wolarz, Code Institute Student)
 
 'Placeholder Area for Main Image'
@@ -11,9 +11,9 @@
 
 ### User Goals
 
-* Find a traditional Polish restaurant with a well structured, user-friendly webpage.
+* Find a traditional sea-side restaurant with a well structured, user-friendly webpage.
 * Easily find the needed contact information.
-* Find the location of the restaurant in Dublin and its surrounding areas.
+* Find the location of the restaurant in Portaferry and its surrounding areas.
 * Be able to see a full menu with clear pricing and appealing photos.
 
 ### Site Owner Goals
@@ -27,7 +27,7 @@
 
 ### Target Audience
 
-* New potential customers looking for a traditional Polish restaurant.
+* New potential customers looking for a nice seaside restaurant.
 * Familiar customers looking to order food for delivery.
 * Customers looking for catering for small, medium or large parties and special events.
 
@@ -69,3 +69,6 @@
 ### Design of the Website
 
 #### Design Choices
+
+### Credits
+
