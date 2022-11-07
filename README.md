@@ -51,4 +51,10 @@
 
 #### Returning Customer
 
-1. 
+5. As a returning customer, I'd like to see an expanded list of special offers.
+6. As a returning customer I want to know the changed opening hours.
+7. As a returning customer I'd like to find the phone number to make reservations.
+8. I'd like to see the menu, with a clear pricing list and names of dishes.
+9. I want to make orders without having to make a separate account just for this purpose.
+10. I would want to find clickable icons to access social media.
+11. I'd like to see the directions 
