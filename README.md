@@ -40,7 +40,7 @@
 * A level of accessibility for customers with disabilities.
 * Good presentation practices with suitable font types, font sizes and colours of backgrounds.
 
-### Customer Stories and Desires
+### Customer Stories and Demands
 
 #### First-time Customer
 
