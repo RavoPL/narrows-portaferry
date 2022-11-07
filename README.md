@@ -30,3 +30,10 @@
 * New potential customers looking for a traditional Polish restaurant.
 * Familiar customers looking to order food for delivery.
 * Customers looking for catering for small, medium or large parties and special events.
+
+### Customer Requirements and Expectations
+
+* A well structured, user-friendly and efficient webpage.
+* Simple and intuitive navigation system.
+* A glitchless experience with functions that work properly.
+* Excellent webpage design with an appealing, industry standard aesthetic, that seamlessly fits to any screen size.
