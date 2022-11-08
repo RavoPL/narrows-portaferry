@@ -51,13 +51,14 @@ img {
 
 /* Menu Section */
 
-#menu {
+#menu ul {
+    float: right;
     font-size: 110%;
     letter-spacing: 2px;
 }
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
     margin-right: 30px;
 }
