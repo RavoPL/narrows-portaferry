@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 
-/* -- FOUNDATIONAL STYLINGS -- */
+/* -- foundational stylings -- */
 
 * {
     margin: 0;
@@ -20,14 +20,14 @@ a {
     text-decoration: none;
 }
 
-/* -- NAVIGATION BUTTONS -- */
+/* -- navigation buttons -- */
 
 nav {
     font-family: 'Source Sans Pro', 'Open Sans', 'Arial';
     font-style: normal;
 }
 
-/* -- GENERAL IMAGE SETTINGS AND HEADING OPTIONS -- */
+/* -- general image settings and headings options -- */
 
 h1 {
     font-family: 'Open Sans', 'Source Sans Pro', 'Arial';
@@ -45,7 +45,7 @@ img {
     width: auto;
 }
 
-/* -- LOGO SECTION -- */
+/* -- logo section -- */
 
 #logo {
     float: left;
@@ -56,7 +56,7 @@ img {
     margin-left: 30px;
 }
 
-/* -- MENU SECTION -- */
+/* -- menu section -- */
 
 #menu {
     line-height: 125px;
@@ -82,7 +82,7 @@ img {
     border-bottom: 1px solid #064273;
 }
 
-/* -- IMAGE BANNER UNDER THE HEADER -- */
+/* -- image banner under the header -- */
 
 #portaferry-outer {
     height: 500px;
@@ -96,13 +96,13 @@ img {
     background: url('../images/portaferrydronephoto.jpg') no-repeat center fixed;
     background-size: cover;
 
-    /* Animation for the Image Banner */
+    /* animation for the image banner */
     animation-name: portaferry-drone-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
-/* Zoom for the Image Banner */
+/* zoom for the image banner animation */
 
 @keyframes portaferry-drone-zoom {
     from {
@@ -113,7 +113,7 @@ img {
     }
 }
 
-/* -- THE ABOUT US SECTION -- */
+/* -- the about us section -- */
 
 #about-us-outer {
     height: auto;
@@ -121,7 +121,7 @@ img {
     overflow: hidden;
 }
 
-/* Targeting of H1 element within About Us section to give enough space */
+/* targeting of h1 element within 'about us' section for necessary spacing */
 
 #about-us-outer h1 {
     margin-top: 1rem!important;
@@ -147,7 +147,7 @@ img {
     background-size: cover;
 }
 
-/* -- THE SPECIAL OFFERS SECTION -- */
+/* -- the special offers section -- */
 
 #special-offers-outer {
     height: auto;
@@ -155,7 +155,7 @@ img {
     overflow: hidden;
 }
 
-/* Targeting of H1 element within Special Offers section to give enough space */
+/* targeting of h1 element within 'special offers' section for necessary spacing */
 
 #special-offers-outer h1 {
     margin-top: 1rem!important;
@@ -164,7 +164,7 @@ img {
     overflow: hidden;
 }
 
-/* -- THE SPECIAL EVENTS SECTION -- */
+/* -- the special events section -- */
 
 #special-events-outer {
     height: auto;
@@ -172,7 +172,7 @@ img {
     overflow: hidden;
 }
 
-/* Targeting of H1 element within Special Events section to give enough space */
+/* targeting of h1 element within 'special events' section for necessary spacing */
 
 #special-events-outer h1 {
     margin-top: 1rem!important;
@@ -181,7 +181,7 @@ img {
     overflow: hidden;
 }
 
-/* Alignment and contents of Left, Right and Center divs */
+/* alignment and contents of left, right and center divs */
 
 #events-left {
     padding-top: 30px;
@@ -201,7 +201,7 @@ img {
     background-color: green;
 }
 
-/* Stylized underline effect for sub-titles */
+/* stylized underline effect for sub-titles */
 
 hr {
     border-top: 1px solid #064273;
@@ -225,7 +225,7 @@ hr {
     margin-bottom: 50px;
 }
 
-/* Alignment of heading and paragraph on right hand side of events section */
+/* alignment of heading and paragraph on right hand side of events section */
 
 .events-right-headings h2, .events-right-headings p {
     text-align: right;
