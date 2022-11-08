@@ -8,5 +8,18 @@
 
 body {
     font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+}
+
+nav {
+    font-family: 'Open Sans';
+    font-style: normal;
     font-weight: 300;
 }
