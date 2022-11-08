@@ -94,4 +94,20 @@ img {
     height: 300px;
     width: 100%;
     background: url('../images/portaferrydronephoto.jpg') no-repeat center center;
+
+    /* Animation for the Image Banner */
+    animation-name: portaferry-drone-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Zoom for the Image Banner */
+
+@keyframes portaferry-drone-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
 }
