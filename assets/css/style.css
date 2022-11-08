@@ -202,3 +202,17 @@ img {
     margin: 0 auto;
     background-color: green;
 }
+
+hr {
+    border-top: 1px solid #064273;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.events-left-headings {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
