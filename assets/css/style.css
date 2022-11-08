@@ -27,7 +27,7 @@ nav {
     font-style: normal;
 }
 
-/* Images and H2 Headings */
+/* General Images and Headings */
 
 h2 {
     font-family: 'Open Sans', 'Source Sans Pro', 'Arial';
@@ -79,4 +79,17 @@ img {
 
 .active {
     border-bottom: 1px solid #064273;
+}
+
+#portaferry-drone {
+    /*object-fit: cover;*/
+    margin: 0%;
+    padding: 0%;
+    border: 1000px;
+    height: 900px;
+    width: 100%;
+    background: url('../images/portaferrydronephoto.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
