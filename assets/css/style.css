@@ -21,9 +21,9 @@ nav {
     font-weight: 300;
 }
 
-/* H1 Logo and H2 Headings */
+/* Images and H2 Headings */
 
-h1, h2 {
+h2 {
     font-family: 'Open Sans', 'Arial';
     font-style: normal;
     font-weight: 600;
@@ -32,6 +32,18 @@ h1, h2 {
     color: #3b3b3b;
 }
 
+img {
+    object-fit: contain;
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+/* Logo Resizing */
+
 #logo {
-    float: left;
+    object-fit: contain;
+    max-width: 250px;
+    max-height: 102px;
 }
