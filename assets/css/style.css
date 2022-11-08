@@ -29,7 +29,7 @@ nav {
 
 /* General Images and Headings */
 
-h2 {
+h1 {
     font-family: 'Open Sans', 'Source Sans Pro', 'Arial';
     font-style: normal;
     letter-spacing: 1px;
@@ -53,6 +53,7 @@ img {
     max-width: 250px;
     max-height: 102px;
     line-height: 200px;
+    margin-left: 30px;
 }
 
 /* Menu Section */
@@ -83,14 +84,18 @@ img {
 
 /* Image Banner under the Header */
 
-#portaferry-drone-outer {
-    height: 600px;
+#portaferry-outer {
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
 
+#banner-text, #banner-text h2 {
+    color: azure;
+}
+
 #portaferry-drone {
-    height: 300px;
+    height: 500px;
     width: 100%;
     background: url('../images/portaferrydronephoto.jpg') no-repeat center fixed;
     background-size: cover;
@@ -110,4 +115,27 @@ img {
     to {
         transform: scale(1.1);
     }
+}
+
+/* The About Us Section */
+
+#about-us-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#about-us-outer h1 {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+    text-align: center;
+    overflow: hidden;
+}
+
+#top-bit {
+    text-align: center;
+}
+
+#center-bit {
+    text-align: center;
 }
