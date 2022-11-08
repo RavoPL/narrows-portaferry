@@ -7,19 +7,24 @@
 }
 
 body {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', 'Arial';
     font-style: italic;
     font-weight: 300;
+    color: #3a3a3a;
 }
 
-h1 {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 600;
-}
+/* Navigation Buttons */
 
 nav {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans', 'Arial';
     font-style: normal;
     font-weight: 300;
+}
+
+/* H1 Logo and H2 Headings */
+
+h1 {
+    font-family: 'Open Sans', 'Arial';
+    font-style: normal;
+    font-weight: 600;
 }
