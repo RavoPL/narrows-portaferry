@@ -12,7 +12,8 @@
 body {
     font-family: 'Open Sans', 'Source Sans Pro', 'Arial';
     font-style: italic;
-    color: #3a3a3a;
+    color: #def3f6;
+    background-color: #76b6c4;
 }
 
 a {
@@ -33,7 +34,7 @@ h2 {
     font-style: normal;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: #3b3b3b;
+    color: #def3f6;
 }
 
 img {
@@ -73,5 +74,9 @@ img {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #3a3a3a;
+    border-bottom: 1px solid #def3f6;
+}
+
+.active {
+    border-bottom: 1px solid #def3f6;
 }
