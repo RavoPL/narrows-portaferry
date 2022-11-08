@@ -47,9 +47,14 @@ img {
     object-fit: contain;
     max-width: 250px;
     max-height: 102px;
+    line-height: 200px;
 }
 
 /* Menu Section */
+
+#menu {
+    line-height: 125px;
+}
 
 #menu ul {
     float: right;
