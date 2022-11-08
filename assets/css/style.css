@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 
-/* Foundational Stylings */
+/* -- FOUNDATIONAL STYLINGS -- */
 
 * {
     margin: 0;
@@ -20,14 +20,14 @@ a {
     text-decoration: none;
 }
 
-/* Navigation Buttons */
+/* -- NAVIGATION BUTTONS -- */
 
 nav {
     font-family: 'Source Sans Pro', 'Open Sans', 'Arial';
     font-style: normal;
 }
 
-/* General Images and Headings */
+/* -- GENERAL IMAGE SETTINGS AND HEADING OPTIONS -- */
 
 h1 {
     font-family: 'Open Sans', 'Source Sans Pro', 'Arial';
@@ -45,7 +45,7 @@ img {
     width: auto;
 }
 
-/* Logo Section */
+/* -- LOGO SECTION -- */
 
 #logo {
     float: left;
@@ -56,7 +56,7 @@ img {
     margin-left: 30px;
 }
 
-/* Menu Section */
+/* -- MENU SECTION -- */
 
 #menu {
     line-height: 125px;
@@ -82,7 +82,7 @@ img {
     border-bottom: 1px solid #064273;
 }
 
-/* Image Banner under the Header */
+/* -- IMAGE BANNER UNDER THE HEADER -- */
 
 #portaferry-outer {
     height: 500px;
@@ -113,13 +113,15 @@ img {
     }
 }
 
-/* The About Us Section */
+/* -- THE ABOUT US SECTION -- */
 
 #about-us-outer {
     height: auto;
     width: 100%;
     overflow: hidden;
 }
+
+/* Targeting of H1 element within About Us section to give enough space */
 
 #about-us-outer h1 {
     margin-top: 1rem!important;
@@ -134,8 +136,6 @@ img {
 
 #bottom-bit {
     text-align: center;
-    display: inline-block;
-    height: auto;
 }
 
 #about-us-photo {
