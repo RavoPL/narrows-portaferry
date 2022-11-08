@@ -81,15 +81,17 @@ img {
     border-bottom: 1px solid #064273;
 }
 
-#portaferry-drone {
-    /*object-fit: cover;*/
-    margin: 0%;
-    padding: 0%;
-    border: 1000px;
-    height: 900px;
+/* Image Banner under the Header */
+
+#portaferry-drone-outer {
+    height: 600px;
     width: 100%;
-    background: url('../images/portaferrydronephoto.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    overflow: hidden;
+}
+
+#portaferry-drone {
+    object-fit: cover;
+    height: 300px;
+    width: 100%;
+    background: url('../images/portaferrydronephoto.jpg') no-repeat center center;
 }
