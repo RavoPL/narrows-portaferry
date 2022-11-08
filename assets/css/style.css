@@ -90,10 +90,10 @@ img {
 }
 
 #portaferry-drone {
-    object-fit: cover;
     height: 300px;
     width: 100%;
-    background: url('../images/portaferrydronephoto.jpg') no-repeat center center;
+    background: url('../images/portaferrydronephoto.jpg') no-repeat center fixed;
+    background-size: cover;
 
     /* Animation for the Image Banner */
     animation-name: portaferry-drone-zoom;
