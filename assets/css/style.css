@@ -40,10 +40,24 @@ img {
     width: auto;
 }
 
-/* Logo Resizing */
+/* Logo Section */
 
 #logo {
+    float: left;
     object-fit: contain;
     max-width: 250px;
     max-height: 102px;
+}
+
+/* Menu Section */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
