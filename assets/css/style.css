@@ -187,14 +187,12 @@ img {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: red;
 }
 
 #events-right {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: blue;
 }
 
 #events-center {
