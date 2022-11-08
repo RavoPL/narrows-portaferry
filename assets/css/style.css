@@ -201,6 +201,8 @@ img {
     background-color: green;
 }
 
+/* Stylized underline effect for sub-titles */
+
 hr {
     border-top: 1px solid #064273;
     width: 100%;
@@ -213,4 +215,18 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.events-right-headings {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+/* Alignment of heading and paragraph on right hand side of events section */
+
+.events-right-headings h2, .events-right-headings p {
+    text-align: right;
 }
