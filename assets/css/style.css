@@ -164,23 +164,40 @@ img {
     overflow: hidden;
 }
 
+/* -- THE SPECIAL EVENTS SECTION -- */
+
+#special-events-outer {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* Targeting of H1 element within Special Events section to give enough space */
+
+#special-events-outer h1 {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+    text-align: center;
+    overflow: hidden;
+}
+
 /* Alignment and contents of Left, Right and Center divs */
 
-#offers-left {
+#events-left {
     padding-top: 30px;
     width: 33%;
     float: left;
     background-color: red;
 }
 
-#offers-right {
+#events-right {
     padding-top: 30px;
     width: 33%;
     float: right;
     background-color: blue;
 }
 
-#offers-center {
+#events-center {
     width: 33%;
     margin: 0 auto;
     background-color: green;
