@@ -49,22 +49,23 @@
 3. I'd like to know more about the hours of opening, the special offers and the catering for special events.
 4. I'd want to be able to make orders from the webpage without having to make a separate account.
 5. I want to know more about the restaurant and the people that work there.
+6. I'd love to know about any points of interest close to the restaurant's accommodation.
 
 #### Returning Customer
 
-6. As a returning customer, I'd like to see an expanded list of special offers.
-7. As a returning customer I want to know the changed opening hours.
-8. As a returning customer I'd like to find the phone number to make reservations.
-9. I'd like to see the menu, with a clear pricing list and names of dishes.
-10. I want to make orders without having to make a separate account just for this purpose.
-11. I would want to find clickable icons to access social media.
-12. I'd like to see the directions
+7. As a returning customer, I'd like to see an expanded list of special offers.
+8. As a returning customer I want to know the changed opening hours.
+9. As a returning customer I'd like to find the phone number to make reservations.
+10. I'd like to see the menu, with a clear pricing list and names of dishes.
+11. I want to make orders without having to make a separate account just for this purpose.
+12. I would want to find clickable icons to access social media.
+13. I'd like to see the directions
 
 #### Webpage Owner
 
-13. As the owner of the website, I want the customers to have an easy way to contact us.
-14. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
-15. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
+14. As the owner of the website, I want the customers to have an easy way to contact us.
+15. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
+16. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
 
 ### Design of the Website
 
