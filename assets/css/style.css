@@ -90,10 +90,6 @@ img {
     overflow: hidden;
 }
 
-#banner-text, #banner-text h2 {
-    color: azure;
-}
-
 #portaferry-drone {
     height: 500px;
     width: 100%;
@@ -136,6 +132,13 @@ img {
     text-align: center;
 }
 
-#center-bit {
+/*#about-us-photo {
+    height: 200px;
+    width: 100%;
+    background: url('../images/portaferrydronephoto.jpg') no-repeat center fixed;
+    background-size: cover;
+}*/
+
+#bottom-bit {
     text-align: center;
 }
