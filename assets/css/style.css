@@ -189,6 +189,11 @@ img {
     border-bottom: 3px double #064273;
 }
 
+#special-offers-outer h2 {
+    font-size: 150%;
+    border-bottom: 1px solid #064273;
+}
+
 /* alignment of special offers list one next to another */
 
 #irish-breakfast, #polish-pancakes, #lamb-stew, #fish-chips, #steak-chips {
@@ -274,7 +279,6 @@ hr {
 #events-container {
     width: 300px;
     height: 300px;
-    /*padding-bottom: calc(55%*9/16);*/
     padding: 20px;
     border-style: solid;
     border-color: #ccc;
@@ -337,4 +341,23 @@ hr {
     background-color: green;
     color: white;
     width: auto;
+}
+
+/* responsive google maps section, code credited in readme.md */
+
+.maps-section {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.maps-section iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
