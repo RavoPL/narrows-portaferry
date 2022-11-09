@@ -102,6 +102,18 @@ img {
     animation-fill-mode: forwards;
 }
 
+#portaferry-gallery {
+    height: 500px;
+    width: 100%;
+    background: url('../images/boatsinmarina.jpg') no-repeat center fixed;
+    background-size: cover;
+
+    /* animation for the image banner */
+    animation-name: portaferry-drone-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
 /* zoom for the image banner animation */
 
 @keyframes portaferry-drone-zoom {
@@ -395,3 +407,6 @@ footer {
 .left, .restaurant-contact, .social-links {
     margin: 20px 0 0 0;
 }
+
+/* style options for bootstrap lightbox */
+
