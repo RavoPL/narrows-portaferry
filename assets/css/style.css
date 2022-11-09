@@ -361,3 +361,36 @@ hr {
     width: 100%;
     position: absolute;
 }
+
+/* the footer section */
+
+footer {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    height: 15rem;
+    background-color: #def3f6;
+}
+
+.main-footer {
+    display: flex;
+}
+
+.main-footer .box {
+    flex-basis: 50%;
+    padding: 10px 20px;
+}
+
+.box h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.box, .times-open {
+    margin: 20px 0 0 0;
+}
+
+.left, .restaurant-contact, .social-links {
+    margin: 20px 0 0 0;
+}
