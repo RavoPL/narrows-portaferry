@@ -263,3 +263,20 @@ hr {
     border-width: 2px;
     border-radius: 50%;
 }
+
+/* the online reservation section */
+
+#reservations-outer {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+#reservations-outer h1 {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+    text-align: center;
+    overflow: hidden;
+    font-size: 250%;
+    border-bottom: 3px double #064273;
+}
