@@ -159,6 +159,26 @@ img {
     text-align: center;
 }
 
+#special-offers-photo-one {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/foodtableone.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+#special-offers-photo-two {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/foodtabletwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
 /* targeting of h1 element within 'special offers' section for necessary spacing */
 
 #special-offers-outer h1 {
@@ -306,8 +326,7 @@ hr {
     padding: 5px;
     margin: 0 auto;
     border-width: 4px;
-    border-style: ridge;
-    border-color: #064273;
+    border-style: inset;
 }
 
 .reservations-section a {

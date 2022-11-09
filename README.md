@@ -93,6 +93,7 @@ in Online Reservations (right now they're not shrinking properly)
 * GitHub
 * GitPod
 * Google Fonts
+* Adobe Photoshop
 
 ### Features
 
@@ -112,4 +113,8 @@ in Online Reservations (right now they're not shrinking properly)
 
 ### Credits
 
-'Placeholder for the Credits Section'
+* Wedding Table Photo from: https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg
+* Restaurant Table Photo One from: https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg
+* Restaurant Table Photo Two from: https://burst.shopifycdn.com/photos/flatlay-iron-skillet-with-meat-and-other-food.jpg?width=1200&format=pjpg&exif=1&iptc=1
+* Narrows Portaferry Logo (origianally made by me): https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png
+* Narrows Portaferry Front Photo: https://www.facebook.com/narrowsguesthouse/
