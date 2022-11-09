@@ -209,7 +209,6 @@ img {
 #events-center {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 /* stylized underline effect for sub-titles */
@@ -240,4 +239,17 @@ hr {
 
 .events-right-headings h2, .events-right-headings p {
     text-align: right;
+}
+
+/* center image and background of events section */
+
+#events-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
 }
