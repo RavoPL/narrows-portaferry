@@ -366,6 +366,7 @@ hr {
 
 footer {
     position: relative;
+    text-align: center;
     bottom: 0px;
     width: 100%;
     height: 15rem;
