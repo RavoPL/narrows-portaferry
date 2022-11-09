@@ -156,6 +156,7 @@ img {
     height: auto;
     width: 100%;
     overflow: hidden;
+    text-align: center;
 }
 
 /* targeting of h1 element within 'special offers' section for necessary spacing */
@@ -163,10 +164,17 @@ img {
 #special-offers-outer h1 {
     margin-top: 1rem!important;
     margin-bottom: 1rem!important;
-    text-align: center;
     overflow: hidden;
     font-size: 250%;
     border-bottom: 3px double #064273;
+}
+
+/* alignment of special offers list one next to another */
+
+#irish-breakfast, #polish-pancakes, #lamb-stew, #fish-chips, #steak-chips {
+    display: inline-block;
+    padding: 20px;
+    font-size: 80%;
 }
 
 /* -- the special events section -- */
