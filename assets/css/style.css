@@ -280,3 +280,9 @@ hr {
     font-size: 250%;
     border-bottom: 3px double #064273;
 }
+
+#reservations-outer h2 {
+    text-align: center;
+    overflow: hidden;
+    font-size: 150%;
+}
