@@ -85,9 +85,20 @@
 
 ### Features
 
+'Placeholder for the Features Section'
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
 
+### Encountered Bugs
+
+'Placeholder for the Bugs Section'
+
+### Deployment
+
+'Placeholder for the Deployment Section'
+
 ### Credits
 
+'Placeholder for the Credits Section'
