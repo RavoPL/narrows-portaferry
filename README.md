@@ -71,5 +71,11 @@
 
 #### Design Choices
 
+#### Colour and Fonts
+
+#### Structure
+
+#### Wireframes
+
 ### Credits
 
