@@ -77,5 +77,17 @@
 
 #### Wireframes
 
+### Technologies Used
+
+#### Languages
+
+#### Tools and Websites
+
+### Features
+
+### Testing of the Webpage
+
+'Placeholder for the Long Testing Section'
+
 ### Credits
 
