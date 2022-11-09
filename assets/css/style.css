@@ -286,3 +286,21 @@ hr {
     overflow: hidden;
     font-size: 150%;
 }
+
+/* styling of the form template */
+
+.reservations-section {
+    width: 500px;
+    text-align: center;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.reservations-section a {
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+    background-color: green;
+    color: white;
+}
