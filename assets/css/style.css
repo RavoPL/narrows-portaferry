@@ -128,6 +128,7 @@ img {
     margin-bottom: 1rem!important;
     text-align: center;
     overflow: hidden;
+    font-size: 250%;
 }
 
 #top-bit {
@@ -162,6 +163,7 @@ img {
     margin-bottom: 1rem!important;
     text-align: center;
     overflow: hidden;
+    font-size: 250%;
 }
 
 /* -- the special events section -- */
@@ -182,6 +184,12 @@ img {
 }
 
 /* alignment and contents of left, right and center divs */
+
+#special-events-welcome {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 250%;
+}
 
 #events-left {
     padding-top: 30px;
