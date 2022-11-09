@@ -81,7 +81,15 @@
 
 #### Languages
 
+* HTML
+* CSS
+
 #### Tools and Websites
+
+* Git
+* GitHub
+* GitPod
+* Google Fonts
 
 ### Features
 
