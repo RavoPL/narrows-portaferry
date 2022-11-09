@@ -119,5 +119,6 @@ in Online Reservations (right now they're not shrinking properly)
 * Narrows Portaferry Logo (origianally made by me): https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png
 * Narrows Portaferry Front Photo: https://www.facebook.com/narrowsguesthouse/
 * Boats in Marina Photo: https://pbs.twimg.com/list_banner_img/1276526214065336320/g6-cNp0_?format=jpg&name=orig
+* Photos for the Gallery: https://www.facebook.com/narrowsguesthouse/
 * Font Awesome 5 Icons: https://www.w3schools.com/icons/fontawesome5_intro.asp
 * Footer Code: https://www.youtube.com/watch?v=f4J3uaNNYTE
