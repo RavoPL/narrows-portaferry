@@ -303,8 +303,11 @@ hr {
 .reservations-section {
     width: 500px;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     margin: 0 auto;
+    border-width: 4px;
+    border-style: ridge;
+    border-color: #064273;
 }
 
 .reservations-section a {
