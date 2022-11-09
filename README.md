@@ -122,3 +122,4 @@ in Online Reservations (right now they're not shrinking properly)
 * Photos for the Gallery: https://www.facebook.com/narrowsguesthouse/
 * Font Awesome 5 Icons: https://www.w3schools.com/icons/fontawesome5_intro.asp
 * Footer Code: https://www.youtube.com/watch?v=f4J3uaNNYTE
+* Responsive Gallery Code: https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea
