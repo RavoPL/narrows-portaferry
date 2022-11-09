@@ -3,6 +3,9 @@
 
 'Placeholder Area for Main Image'
 
+* THINGS TO FIX: Screen size adjustments for the image in Special Events section and for the form
+in Online Reservations (right now they're not shrinking properly)
+
 ## Contents
 
 'Placeholder Section for Contents List'
