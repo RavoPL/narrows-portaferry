@@ -129,6 +129,7 @@ img {
     text-align: center;
     overflow: hidden;
     font-size: 250%;
+    border-bottom: 3px double #064273;
 }
 
 #top-bit {
@@ -146,6 +147,7 @@ img {
     width: 100%;
     background: url('../images/portaferryfront.jpg') no-repeat center local;
     background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
 }
 
 /* -- the special offers section -- */
@@ -164,6 +166,7 @@ img {
     text-align: center;
     overflow: hidden;
     font-size: 250%;
+    border-bottom: 3px double #064273;
 }
 
 /* -- the special events section -- */
@@ -187,8 +190,8 @@ img {
 
 #special-events-welcome {
     text-align: center;
-    margin: 50px 0;
     font-size: 250%;
+    border-bottom: 3px double #064273;
 }
 
 #events-left {
