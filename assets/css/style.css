@@ -502,24 +502,6 @@ footer {
 
  /* the menu and amenities section */
 
-#menu-photo-one {
-    margin-top: 1rem;
-    height: 200px;
-    width: 100%;
-    background: url('../images/foodtabletwo.jpg') no-repeat center local;
-    background-size: cover;
-    box-shadow: 0 0 7px 7px #def3f6 inset;
-}
-
-#menu-photo-two {
-    margin-bottom: 1rem;
-    height: 200px;
-    width: 100%;
-    background: url('../images/foodtabletwo.jpg') no-repeat center local;
-    background-size: cover;
-    box-shadow: 0 0 7px 7px #def3f6 inset;
-}
-
  #menu-outer {
     height: auto;
     width: 100%;
@@ -541,4 +523,24 @@ footer {
 #menu-text h2 {
     text-transform: uppercase;
     border-bottom: 1px solid #064273;
+}
+
+/* menu section photo banners */
+
+#menu-photo-one {
+    margin-top: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/narrowsmenuone.jpeg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+#menu-photo-two {
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/narrowsmenutwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
 }

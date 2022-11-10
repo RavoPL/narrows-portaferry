@@ -120,6 +120,8 @@ in Online Reservations (right now they're not shrinking properly)
 * Narrows Portaferry Front Photo: https://www.facebook.com/narrowsguesthouse/
 * Portaferry View Photo: https://celticcanada.com/wp-content/uploads/2018/08/charming-villages-ni-portaferry.jpg
 * Photos for the Gallery: https://www.facebook.com/narrowsguesthouse/
+* Menu Banner Photo One: https://www.jetsetter.com//uploads/sites/7/2018/04/t_Px07Lv-1380x690.jpeg
+* Menu Banner Photo Two: https://cdn-ds.com/blogs-media/sites/223/2020/11/12184137/LXT-top-1112_b.jpg
 * Font Awesome 5 Icons: https://www.w3schools.com/icons/fontawesome5_intro.asp
 * Footer Code: https://www.youtube.com/watch?v=f4J3uaNNYTE
 * Responsive Gallery Code: https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea
