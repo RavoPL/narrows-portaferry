@@ -105,7 +105,19 @@ img {
 #portaferry-gallery {
     height: 500px;
     width: 100%;
-    background: url('../images/boatsinmarina.jpg') no-repeat center fixed;
+    background: url('../images/portaferryview.jpg') no-repeat center fixed;
+    background-size: cover;
+
+    /* animation for the image banner */
+    animation-name: portaferry-drone-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#portaferry-amenities {
+    height: 500px;
+    width: 100%;
+    background: url('../images/narrowsamenitiespicture.jpg') no-repeat center fixed;
     background-size: cover;
 
     /* animation for the image banner */
