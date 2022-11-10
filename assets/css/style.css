@@ -302,7 +302,7 @@ hr {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
     #events-container {
         width: 200px;
         height: 200px;
