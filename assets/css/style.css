@@ -525,6 +525,10 @@ footer {
     border-bottom: 1px solid #064273;
 }
 
+#menu-text p {
+    margin-bottom: 1rem!important
+}
+
 /* menu section photo banners */
 
 #menu-photo-one {
