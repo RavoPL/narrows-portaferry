@@ -499,3 +499,46 @@ footer {
      column-count:         1;
     }
  }
+
+ /* the menu and amenities section */
+
+#menu-photo-one {
+    margin-top: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/foodtabletwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+#menu-photo-two {
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/foodtabletwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+ #menu-outer {
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+}
+
+#menu-outer h1 {
+    margin-top: 1rem!important;
+    text-align: center;
+    overflow: hidden;
+    font-size: 250%;
+    border-bottom: 3px double #064273;
+}
+
+#menu-text {
+    text-align: center;
+}
+
+#menu-text h2 {
+    text-transform: uppercase;
+    border-bottom: 1px solid #064273;
+}
