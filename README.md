@@ -103,6 +103,7 @@ The website is structured in a user friendly way that makes navigation of its co
 
 <details>
   <summary>Menu and Amenities</summary>
+  <img src="docs/wireframes/amenities-wireframe.png" alt="Wireframe of Amenities Page" title="Menu and Amenities Page Wireframe">
 </details>
 
 ### Technologies Used
