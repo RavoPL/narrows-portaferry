@@ -53,22 +53,23 @@ in Online Reservations (right now they're not shrinking properly)
 4. I'd want to be able to make orders from the webpage without having to make a separate account.
 5. I want to know more about the restaurant and the people that work there.
 6. I'd love to know about any points of interest close to the restaurant's accommodation.
+7. I'd like to see what bed and breakfast options are available in the establishment.
 
 #### Returning Customer
 
-7. As a returning customer, I'd like to see an expanded list of special offers.
-8. As a returning customer I want to know the changed opening hours.
-9. As a returning customer I'd like to find the phone number to make reservations.
-10. I'd like to see the menu, with a clear pricing list and names of dishes.
-11. I want to make orders without having to make a separate account just for this purpose.
-12. I would want to find clickable icons to access social media.
-13. I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.
+8. As a returning customer, I'd like to see an expanded list of special offers.
+9. As a returning customer I want to know the changed opening hours.
+10. As a returning customer I'd like to find the phone number to make reservations.
+11. I'd like to see the menu, with a clear pricing list and names of dishes.
+12. I want to make orders without having to make a separate account just for this purpose.
+13. I would want to find clickable icons to access social media.
+14. I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.
 
 #### Webpage Owner
 
-14. As the owner of the website, I want the customers to have an easy way to contact us.
-15. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
-16. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
+15. As the owner of the website, I want the customers to have an easy way to contact us.
+16. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
+17. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
 
 ### Design of the Website
 
@@ -145,49 +146,56 @@ The website consists of X pages and Y features
 
 #### About Us Section
 * It provides a description of the business and staff as well as some bits of history
-* **Stories covered:** 5, 16
+* **Stories covered:** 6, 17
 <br>
 <img src="docs/wireframes/f-aboutus.png" alt="About us section" title="About Us Section">
 
 #### Special Offers Section
 * Highly informative section of the main page that grants the user news of currently ongoing special offers
 * Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
-* **Stories covered:** 2, 3, 7, 16
+* **Stories covered:** 3, 4, 8, 17
 <br>
 <img src="docs/wireframes/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
 #### Special Events Section
 * Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
-* **Stories covered:** 3, 16
+* **Stories covered:** 4, 17
 <br>
 <img src="docs/wireframes/f-specialevents.png" alt="Special events section" title="Special Events Section">
 
 #### Online Reservations Form
 * Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
 * Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
-* **Stories covered:** 4, 11, 14, 15
+* **Stories covered:** 5, 12, 15, 16
 <br>
 <img src="docs/wireframes/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
 
 #### Google Maps Section
 * Allows new customers to locate the restaurant
 * Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
-* **Stories covered:** 1, 6
+* **Stories covered:** 2, 7
 <br>
 <img src="docs/wireframes/f-map.png" alt="Maps section" title="Google Maps Section">
 
 #### Menu Section
 * Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
 * Informs new and returning customers of the variaties of the main menu depending on time of day
-* **Stories covered:** 2, 10, 16
+* **Stories covered:** 3, 11, 17
 <br>
 <img src="docs/wireframes/f-menu.png" alt="Menu section" title="Main Menu Section">
+
+#### Amenities Section
+* Provides new and returning customers with an up to date list of available room rentals
+* Informs new and returning customers of the differences in each available bed and breakfast option
+* **Stories covered:** 7
+<br>
+<img src="docs/wireframes/f-amenities.png" alt="Rooms section" title="Amenities Section">
 
 #### Footer
 * Informs new and returning customers of up to date opening times
 * Provides new and returning customers with the restaurant's location, phone number as well as e-mail address
 * Invites new and returning customers to visit the social media of the business
-* **Stories covered:** 1, 3, 8, 9, 12, 14
+* **Stories covered:** 2, 4, 9, 10, 13, 15
 <br>
 <img src="docs/wireframes/f-footer.png" alt="Footer section" title="Footer Section">
 
