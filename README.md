@@ -151,6 +151,9 @@ The website is structured in a user friendly way that makes navigation of its co
 * [Photos for the Responsive Gallery](https://www.facebook.com/narrowsguesthouse/)
 * [Menu Banner Photo One](https://www.jetsetter.com//uploads/sites/7/2018/04/t_Px07Lv-1380x690.jpeg)
 * [Menu Banner Photo Two](https://cdn-ds.com/blogs-media/sites/223/2020/11/12184137/LXT-top-1112_b.jpg)
+* [Amenities Banner Photo One](https://hips.hearstapps.com/clv.h-cdn.co/assets/17/29/1500477714-bed-and-breakfast-index.jpg)
+* [Amenities Banner Photo Two](https://www.mercersburginn.com/wp-content/uploads/2015/11/MarieClaire-slide.jpg)
+* [Amenities Banner Photo Three](https://ssl.latcdn.com/img/ye3GO0n3z-georgia.jpg)
 
 #### Code and Assets
 * [Font Awesome 5 Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp)
