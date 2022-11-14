@@ -397,7 +397,7 @@ hr {
     width: auto;
 }
 
-/* responsive google maps section, code credited in readme.md */
+/* google maps frame */
 
 .maps-section {
     margin-top: 1rem!important;
@@ -416,7 +416,7 @@ hr {
     position: absolute;
 }
 
-/* the footer section */
+/* responsive footer, by Coding Nepal, credited in readme.md (https://www.youtube.com/watch?v=f4J3uaNNYTE&ab_channel=CodingNepal) */
 
 footer {
     position: relative;
@@ -450,7 +450,7 @@ footer {
     margin: 20px 0 0 0;
 }
 
-/* style options for gallery - code credited */
+/* style options for gallery, by Tim Wells, credited in readme.md (https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea) */
 
 #gallery {
     line-height:0;

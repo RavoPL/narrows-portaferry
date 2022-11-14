@@ -477,5 +477,5 @@ The website was deployed using GitHub Pages by following these steps:
 
 ### Code and Assets
 * [Font Awesome 5 Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp)
-* [Footer Code](https://www.youtube.com/watch?v=f4J3uaNNYTE)
-* [Responsive Gallery Code](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
+* [Responsive Footer Code by CodingNepal](https://www.youtube.com/watch?v=f4J3uaNNYTE)
+* [Responsive Gallery Code by Tim Wells](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
