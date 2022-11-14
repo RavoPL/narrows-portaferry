@@ -85,18 +85,20 @@ Colour tones associated with the sea were chosen as basis for the colour palette
 #### Structure
 
 The website is structured in a user friendly way that makes navigation of its contents extremely easy and pleasing to the eye. The most vital of information which can be stored on one page (*Home, About and Contact*) is done so through a hyperlink connection and relevant information in the webpage's footer section. Other equally vital information which need its own respective pages are stored in the *Gallery* and *Menu and Amenities* pages. As such, the website consists of three separate pages:
-* The Home Page, with its About and Contact sections down the bottom of the page which can be accessed with just one click
-* The Gallery Page, with its responsive gallery to enhance a customer's experience and give a glimpse into the restaurant facilities
-* The Menu and Amenities Page, which stores both the menu and the room rental sections
+* **The Home Page**, with its About and Contact sections down the bottom of the page which can be accessed with just one click
+* **The Gallery Page**, with its responsive gallery to enhance a customer's experience and give a glimpse into the restaurant facilities
+* **The Menu and Amenities Page**, which stores both the menu and the room rental sections
 
 #### Wireframes
 
 <details>
   <summary>Home, About and Contact</summary>
+  <img src="docs/wireframes/menu-about-contact-wireframe.png" alt="Wireframe of Home, About and Contact sections" title="Home Page Wireframe">
 </details>
 
 <details>
   <summary>Gallery</summary>
+  <img src="docs/wireframes/gallery-wireframe.png" alt="Wireframe of Gallery Page" title="Gallery Page Wireframe">
 </details>
 
 <details>
