@@ -125,7 +125,14 @@ The website is structured in a user friendly way that makes navigation of its co
 
 ### Features
 
-'Placeholder for the Features Section'
+The website consists of X pages and Y features
+
+#### Logo and Navigation Bar
+* Featured on all three separate pages of the website
+* Fully responsive, changes size according to the dimensions of the display on a particular device
+* The page the user is currently on is highlighted with an underscore styling
+* Allows customer for quick and easy navigation of all three separate pages on the website as well as specific sections of the Home page
+<img src="docs/wireframes/f-header.png" alt="Header on all pages" title="Home Page Header">
 
 ### Testing of the Webpage
 
