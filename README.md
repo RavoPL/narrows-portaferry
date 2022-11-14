@@ -315,10 +315,27 @@ In the future I plan on adding a dynamic user review section that displays custo
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Google Maps Frame  | Locate a mini frame showing accurate location of restaurant  | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
-| Restaurant location in Footer  | Locate the listed restaurant location in the footer  | Navigate to 'Contact' in the nav bar, see Footer on the bottom | Works as Intended  |
+| Google Maps frame | Locate a mini frame showing accurate location of restaurant  | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
+| Restaurant location in Footer | Locate the listed restaurant location in the footer  | Navigate to 'Contact' in the nav bar, see Footer on the bottom | Works as Intended |
 
-2. I want to know the price range so I can compare it with other restaurants in the area.
+2. *I want to know the price range so I can compare it with other restaurants in the area.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
+| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
+
+3. *I'd like to know more about the hours of opening, the special offers and the catering for special events.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
+| Special Events section | Locate Special Events section showing events catering | Scroll down the bottom of the Home page, see Special Events | Works as Intended |
+| Information in Footer | Locate opening times listing in the Footer | Scroll down the bottom of the Home page, see opening times in Footer | Works as Intended |
+
+4. *I'd want to be able to make orders from the webpage without having to make a separate account.*
 <br>
 
 ## Known Bugs
