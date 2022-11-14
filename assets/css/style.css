@@ -516,16 +516,17 @@ footer {
     border-bottom: 3px double #064273;
 }
 
-#menu-text {
+#menu-text, #amenities-section {
     text-align: center;
 }
 
-#menu-text h2 {
+#menu-text h2, #amenities-section h2 {
+    margin-top: 1rem!important;
     text-transform: uppercase;
     border-bottom: 1px solid #064273;
 }
 
-#menu-text p {
+#menu-text p, #amenities-section p {
     margin-bottom: 1rem!important
 }
 
@@ -545,6 +546,35 @@ footer {
     height: 200px;
     width: 100%;
     background: url('../images/narrowsmenutwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+/* amenities section photo banners */
+
+#amenities-photo-one {
+    margin-top: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/amenitiesone.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+#amenities-photo-two {
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/amenitiestwo.jpg') no-repeat center local;
+    background-size: cover;
+    box-shadow: 0 0 7px 7px #def3f6 inset;
+}
+
+#amenities-photo-three {
+    margin-bottom: 1rem;
+    height: 200px;
+    width: 100%;
+    background: url('../images/amenitiesthree.jpg') no-repeat center local;
     background-size: cover;
     box-shadow: 0 0 7px 7px #def3f6 inset;
 }
