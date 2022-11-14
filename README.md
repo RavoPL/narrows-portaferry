@@ -7,7 +7,13 @@ Developed by Dorian Wolarz, a Code Institute Student
 
 ## Contents
 
-'Placeholder Section for Contents List'
+1. [Project Goals](##project-goals)
+- [User Goals](###user-goals)
+- [Site Owner Goals](###site-owner-goals)
+2. [User Experience](##user-experience)
+- [Target Audience](###target-audience)
+- [Customer Requirements and Expectations](###site-owner-goals)
+
 
 ## Project Goals
 
