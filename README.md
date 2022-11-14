@@ -134,6 +134,13 @@ The website consists of X pages and Y features
 * Allows customer for quick and easy navigation of all three separate pages on the website as well as specific sections of the Home page
 <img src="docs/wireframes/f-header.png" alt="Header on all pages" title="Home Page Header">
 
+#### Main Banner Image
+* Featured on all three separate pages of the website
+* Fully responsive, changes size according to the dimensions of the display on a particular device
+* Visually appealing, it helps divide up the text on the webpage into easily digestible portions
+* Displays a specific photo associated with 'The Narrows' restaurant for visual significance
+<img src="docs/wireframes/f-banner.png" alt="Main banner on all pages" title="Main Banner Image">
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
