@@ -251,6 +251,21 @@ The website consists of X pages and Y features
 
 #### Performance
 
+<details>
+  <summary>Home Page</summary>
+  <img src="docs/testing/p-index.png" alt="Performance of index" title="Home Page Performance">
+</details>
+
+<details>
+  <summary>Gallery Page</summary>
+  <img src="docs/testing/p-gallery.png" alt="Performance of gallery" title="Gallery Page Performance">
+</details>
+
+<details>
+  <summary>Menu and Amenities Page</summary>
+  <img src="docs/testing/p-amenities.png" alt="Performance of menu" title="Menu and Amenities Page Performance">
+</details>
+
 ### Encountered Bugs
 
 'Placeholder for the Bugs Section'
