@@ -209,6 +209,25 @@ The website consists of X pages and Y features
 
 #### HTML Validation
 
+<details>
+  <summary>Home Page</summary>
+  <img src="docs/testing/v-index.png" alt="Validation of Home, About and Contact sections" title="Home Page Validation">
+</details>
+
+<details>
+  <summary>Gallery Page</summary>
+  <img src="docs/testing/v-gallery.png" alt="Validation of Gallery Page" title="Gallery Page Validation">
+</details>
+
+<details>
+  <summary>Menu and Amenities Page</summary>
+  <img src="docs/testing/v-amenities.png" alt="Validation of Amenities Page" title="Menu and Amenities Page Validation">
+</details>
+
+#### CSS Validation
+
+
+
 ### Encountered Bugs
 
 'Placeholder for the Bugs Section'
