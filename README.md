@@ -146,41 +146,41 @@ The website consists of X pages and Y features
 
 #### About Us Section
 * It provides a description of the business and staff as well as some bits of history
-* **Stories covered:** 6, 17
+* **Stories covered:** 5, 17
 <br>
 <img src="docs/wireframes/f-aboutus.png" alt="About us section" title="About Us Section">
 
 #### Special Offers Section
 * Highly informative section of the main page that grants the user news of currently ongoing special offers
 * Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
-* **Stories covered:** 3, 4, 8, 17
+* **Stories covered:** 2, 3, 8, 17
 <br>
 <img src="docs/wireframes/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
 #### Special Events Section
 * Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
-* **Stories covered:** 4, 17
+* **Stories covered:** 3, 17
 <br>
 <img src="docs/wireframes/f-specialevents.png" alt="Special events section" title="Special Events Section">
 
 #### Online Reservations Form
 * Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
 * Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
-* **Stories covered:** 5, 12, 15, 16
+* **Stories covered:** 4, 12, 15, 16
 <br>
 <img src="docs/wireframes/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
 
 #### Google Maps Section
 * Allows new customers to locate the restaurant
 * Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
-* **Stories covered:** 2, 7
+* **Stories covered:** 1, 7
 <br>
 <img src="docs/wireframes/f-map.png" alt="Maps section" title="Google Maps Section">
 
 #### Menu Section
 * Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
 * Informs new and returning customers of the variaties of the main menu depending on time of day
-* **Stories covered:** 3, 11, 17
+* **Stories covered:** 2, 11, 17
 <br>
 <img src="docs/wireframes/f-menu.png" alt="Menu section" title="Main Menu Section">
 
@@ -195,7 +195,7 @@ The website consists of X pages and Y features
 * Informs new and returning customers of up to date opening times
 * Provides new and returning customers with the restaurant's location, phone number as well as e-mail address
 * Invites new and returning customers to visit the social media of the business
-* **Stories covered:** 2, 4, 9, 10, 13, 15
+* **Stories covered:** 1, 3, 9, 10, 13, 15
 <br>
 <img src="docs/wireframes/f-footer.png" alt="Footer section" title="Footer Section">
 
