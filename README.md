@@ -187,9 +187,15 @@ The website consists of X pages and Y features
 #### Amenities Section
 * Provides new and returning customers with an up to date list of available room rentals
 * Informs new and returning customers of the differences in each available bed and breakfast option
-* **Stories covered:** 7
+* **Stories covered:** 7, 14
 <br>
 <img src="docs/wireframes/f-amenities.png" alt="Rooms section" title="Amenities Section">
+
+#### Gallery Section
+* Provides new and returning customers with a visually appealing and responsive assortment of relevant photos
+* **Stories covered:** 14
+<br>
+<img src="docs/wireframes/f-gallery.png" alt="Gallery section" title="Gallery Section">
 
 #### Footer
 * Informs new and returning customers of up to date opening times
