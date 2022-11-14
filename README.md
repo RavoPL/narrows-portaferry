@@ -368,7 +368,75 @@ In the future I plan on adding a dynamic user review section that displays custo
 
 | **Feature**  | **Expected Result** | **Action Taken** | **Result** |
 | ------------- | ------------- | ------------- | ------------- |
-| Amenities section | Locate up to date Amenities section showing accommodation | Navigate to 'Menu and Amenities' in the nav bar, scroll to 'Amenities' section | Works as Intended |
+| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
+
+9. *As a returning customer I want to know the changed opening hours.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Information in Footer | Locate the opening hours listing in the Footer | Scroll down the bottom of the Home page, see opening hours in Footer | Works as Intended |
+
+10. *As a returning customer I'd like to find the phone number to make reservations.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Information in Footer | Locate the provided phone number in the Footer | Scroll down the bottom of the Home page, see phone number in Footer | Works as Intended |
+
+11. *I'd like to see the menu, with a clear pricing list and names of dishes.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
+
+12. *I want to make orders without having to make a separate account just for this purpose.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Online Reservation form | Locate and submit an Online Reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
+
+13. *I would want to find clickable icons to access social media.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Information in Footer | Locate the social media hyperlink in the Footer | Scroll down the bottom of the Home page, see 'Find Us On' section in Footer | Works as Intended |
+
+14. *I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Gallery section | Locate and assess the Photo Gallery | Click 'Gallery' page in the navigation bar, scroll down | Works as Intended |
+
+15. *As the owner of the website, I want the customers to have an easy way to contact us.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Online Reservation form | Communicate with website owner through reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
+| Information in Footer | Locate the social media hyperlink in the Footer | Scroll down the bottom of the Home page, see 'Find Us On' section in Footer | Works as Intended |
+| Information in Footer | Locate the provided phone number in the Footer | Scroll down the bottom of the Home page, see phone number in Footer | Works as Intended |
+
+16. *I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Online Reservation form | Locate and submit an Online Reservation form without having to make a dedicated account | Click 'Contact' and scroll to the Online Reservation form, fill it out and submit | Works as Intended |
+
+17. *I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Menu section | Locate up to date Main Menu meals | Navigate to 'Menu and Amenities' page, scroll down to Menu section | Works as Intended |
+| Special Offers section | Locate Special Offers section showing up to date specials | Scroll down the bottom of the Home page, see Special Offers | Works as Intended |
+| Special Events section | Locate Special Events section showing events catering | Scroll down the bottom of the Home page, see Special Events | Works as Intended |
+| About Us section | Locate About Us section providing information about the business | Click 'About' and read the section | Works as Intended |
 
 ## Known Bugs
 
