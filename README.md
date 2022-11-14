@@ -207,7 +207,7 @@ The website consists of X pages and Y features
 
 ### Testing of the Webpage
 
-'Placeholder for the Long Testing Section'
+#### HTML Validation
 
 ### Encountered Bugs
 
