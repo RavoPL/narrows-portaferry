@@ -152,6 +152,11 @@ The website consists of X pages and Y features
 * **Stories covered:** 2, 3, 7, 16
 <img src="docs/wireframes/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
+#### Special Events Section
+* Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
+* **Stories covered:** 3, 16
+<img src="docs/wireframes/f-specialevents.png" alt="Special events section" title="Special Events Section">
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
