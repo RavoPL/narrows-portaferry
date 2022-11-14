@@ -78,7 +78,7 @@ The webpage was designed with the idea of a seaside marina restaurant in mind. T
 
 #### Colour and Fonts
 
-![alt text](https://raw.githubusercontent.com/RavoPL/narrows-portaferry/master/docs/features/adobe-color-wheel.jpg "Adobe Color Wheel")
+![alt text](https://github.com/RavoPL/narrows-portaferry//docs/features/adobe-color-wheel.jpg?raw=true "Adobe Color Wheel")
 
 Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
 
