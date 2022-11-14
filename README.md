@@ -42,6 +42,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [CSS Validation](#css-validation)
     - [Accessibility](#accessibility)
     - [Performance](#performance)
+    - [Testing of Customer, Returning Customer and Webpage Owner Stories](#testing-of-customer-returning-customer-and-webpage-owner-stories)
 7. [Encountered Bugs](#encountered-bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
