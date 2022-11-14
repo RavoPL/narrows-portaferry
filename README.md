@@ -1,7 +1,7 @@
 # Narrows Portaferry
-Developed by Dorian Wolarz, a Code Institute Student
+Developed by **Dorian Wolarz**, a Code Institute Student
 
-'Placeholder Area for Main Image'
+![Image of My Website on a Mac](docs/readme-image.png)
 
 [LINK TO LIVE WEBPAGE](https://ravopl.github.io/narrows-portaferry/)
 
@@ -338,6 +338,7 @@ The website was deployed using GitHub Pages by following these steps:
 * [Amenities Banner Photo One](https://hips.hearstapps.com/clv.h-cdn.co/assets/17/29/1500477714-bed-and-breakfast-index.jpg)
 * [Amenities Banner Photo Two](https://www.mercersburginn.com/wp-content/uploads/2015/11/MarieClaire-slide.jpg)
 * [Amenities Banner Photo Three](https://ssl.latcdn.com/img/ye3GO0n3z-georgia.jpg)
+* [Mac Image for ReadMe Header](https://thumbs.dreamstime.com/b/imac-computer-table-phatthalung-thailand-september-keyboard-magic-mouse-wooden-created-apple-inc-130872404.jpg)
 
 ### Code and Assets
 * [Font Awesome 5 Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp)
