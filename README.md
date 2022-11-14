@@ -62,7 +62,7 @@ in Online Reservations (right now they're not shrinking properly)
 10. I'd like to see the menu, with a clear pricing list and names of dishes.
 11. I want to make orders without having to make a separate account just for this purpose.
 12. I would want to find clickable icons to access social media.
-13. I'd like to see the directions
+13. I'd like to see the directions to the restaurant and any interesting tourist hotspots in the surrounding area.
 
 #### Webpage Owner
 
@@ -132,6 +132,7 @@ The website consists of X pages and Y features
 * Fully responsive, changes size according to the dimensions of the display on a particular device
 * The page the user is currently on is highlighted with an underscore styling
 * Allows customer for quick and easy navigation of all three separate pages on the website as well as specific sections of the Home page
+<br>
 <img src="docs/wireframes/f-header.png" alt="Header on all pages" title="Home Page Header">
 
 #### Main Banner Image
@@ -139,29 +140,41 @@ The website consists of X pages and Y features
 * Fully responsive, changes size according to the dimensions of the display on a particular device
 * Visually appealing, it helps divide up the text on the webpage into easily digestible portions
 * Displays a specific photo associated with 'The Narrows' restaurant for visual significance
+<br>
 <img src="docs/wireframes/f-banner.png" alt="Main banner on all pages" title="Main Banner Image">
 
 #### About Us Section
 * It provides a description of the business and staff as well as some bits of history
 * **Stories covered:** 5, 16
+<br>
 <img src="docs/wireframes/f-aboutus.png" alt="About us section" title="About Us Section">
 
 #### Special Offers Section
 * Highly informative section of the main page that grants the user news of currently ongoing special offers
 * Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
 * **Stories covered:** 2, 3, 7, 16
+<br>
 <img src="docs/wireframes/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
 #### Special Events Section
 * Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
 * **Stories covered:** 3, 16
+<br>
 <img src="docs/wireframes/f-specialevents.png" alt="Special events section" title="Special Events Section">
 
 #### Online Reservations Form
 * Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
 * Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
 * **Stories covered:** 4, 11, 14, 15
+<br>
 <img src="docs/wireframes/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
+
+#### Google Maps Section
+* Allows new customers to locate the restaurant
+* Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
+* **Stories covered:** 1, 6, 13
+<br>
+<img src="docs/wireframes/f-map.png" alt="Maps section" title="Google Maps Section">
 
 ### Testing of the Webpage
 
