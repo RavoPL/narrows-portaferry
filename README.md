@@ -232,6 +232,23 @@ The website consists of X pages and Y features
   <img src="docs/testing/v-style2.png" alt="Validation of style.css" title="style.css Validation">
 </details>
 
+#### Accessibility
+
+<details>
+  <summary>Home Page</summary>
+  <img src="docs/testing/a-index.png" alt="Accessibility of index" title="Home Page Validation">
+</details>
+
+<details>
+  <summary>Gallery Page</summary>
+  <img src="docs/testing/a-gallery.png" alt="Accessibility of gallery" title="Gallery Page Validation">
+</details>
+
+<details>
+  <summary>Menu and Amenities Page</summary>
+  <img src="docs/testing/a-amenities.png" alt="Accessibility of menu" title="Menu and Amenities Page Validation">
+</details>
+
 ### Encountered Bugs
 
 'Placeholder for the Bugs Section'
