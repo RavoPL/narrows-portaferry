@@ -7,12 +7,16 @@ Developed by Dorian Wolarz, a Code Institute Student
 
 ## Contents
 
-1. [Project Goals](##project-goals)
-- [User Goals](###user-goals)
-- [Site Owner Goals](###site-owner-goals)
-2. [User Experience](##user-experience)
-- [Target Audience](###target-audience)
-- [Customer Requirements and Expectations](###site-owner-goals)
+1. [Project Goals](#project-goals)
+    - [User Goals](#user-goals)
+    - [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    - [Target Audience](#target-audience)
+    - [Customer Requirements and Expectations](#site-owner-goals)
+    - [Customer Stories and Demands](#customer-stories-and-demands)
+       - [First-time Customer](#first-time-customer)
+       - [Returning Customer](#returning-customer)
+       - [Webpage Owner](#webpage-owner)
 
 
 ## Project Goals
@@ -76,26 +80,26 @@ Developed by Dorian Wolarz, a Code Institute Student
 16. I want the customers to have an easy access to on-webpage ordering, so that orders can be forwarded to us without any issues and without the need to make personal accounts to be held in our database.
 17. I'd like the users to have a good experience viewing the webpage and getting to know our menu, special offers, special events and a little bit about us as a company and brand.
 
-### Design of the Website
+## Design of the Website
 
-#### Design Choices
+### Design Choices
 
 The webpage was designed with the idea of a seaside marina restaurant in mind. The general aesthetic of the website is meant to be clean, organized and easily navigatable. The content of the webpage is neatly divided among sections and sub-sections to make the experience easy on the customer.
 
-#### Colour and Fonts
+### Colour and Fonts
 
 ![Image of Adobe Color Wheel](docs/features/adobe-color-wheel.png)
 
 Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
 
-#### Structure
+### Structure
 
 The website is structured in a user friendly way that makes navigation of its contents extremely easy and pleasing to the eye. The most vital of information which can be stored on one page (*Home, About and Contact*) is done so through a hyperlink connection and relevant information in the webpage's footer section. Other equally vital information which need its own respective pages are stored in the *Gallery* and *Menu and Amenities* pages. As such, the website consists of three separate pages:
 * **The Home Page**, with its About and Contact sections down the bottom of the page which can be accessed with just one click
 * **The Gallery Page**, with its responsive gallery to enhance a customer's experience and give a glimpse into the restaurant facilities
 * **The Menu and Amenities Page**, which stores both the menu and the room rental sections
 
-#### Wireframes
+### Wireframes
 
 <details>
   <summary>Home, About and Contact</summary>
@@ -112,14 +116,14 @@ The website is structured in a user friendly way that makes navigation of its co
   <img src="docs/wireframes/amenities-wireframe.png" alt="Wireframe of Amenities Page" title="Menu and Amenities Page Wireframe">
 </details>
 
-### Technologies Used
+## Technologies Used
 
-#### Languages
+### Languages
 
 * HTML
 * CSS
 
-#### Tools and Websites
+### Tools and Websites
 
 * Git
 * GitHub
@@ -129,11 +133,11 @@ The website is structured in a user friendly way that makes navigation of its co
 * Adobe Photoshop
 * Balsamiq
 
-### Features
+## Features
 
 The website consists of X pages and Y features
 
-#### Logo and Navigation Bar
+### Logo and Navigation Bar
 * Featured on all three separate pages of the website
 * Fully responsive, changes size according to the dimensions of the display on a particular device
 * The page the user is currently on is highlighted with an underscore styling
@@ -141,7 +145,7 @@ The website consists of X pages and Y features
 <br>
 <img src="docs/features/f-header.png" alt="Header on all pages" title="Home Page Header">
 
-#### Main Banner Image
+### Main Banner Image
 * Featured on all three separate pages of the website
 * Fully responsive, changes size according to the dimensions of the display on a particular device
 * Visually appealing, it helps divide up the text on the webpage into easily digestible portions
@@ -149,60 +153,60 @@ The website consists of X pages and Y features
 <br>
 <img src="docs/features/f-banner.png" alt="Main banner on all pages" title="Main Banner Image">
 
-#### About Us Section
+### About Us Section
 * It provides a description of the business and staff as well as some bits of history
 * **Stories covered:** 5, 17
 <br>
 <img src="docs/features/f-aboutus.png" alt="About us section" title="About Us Section">
 
-#### Special Offers Section
+### Special Offers Section
 * Highly informative section of the main page that grants the user news of currently ongoing special offers
 * Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
 * **Stories covered:** 2, 3, 8, 17
 <br>
 <img src="docs/features/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
-#### Special Events Section
+### Special Events Section
 * Highly informative section of the main page that provides the customer with the sort of public and private events that 'The Narrows' can accommodate
 * **Stories covered:** 3, 17
 <br>
 <img src="docs/features/f-specialevents.png" alt="Special events section" title="Special Events Section">
 
-#### Online Reservations Form
+### Online Reservations Form
 * Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
 * Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
 * **Stories covered:** 4, 12, 15, 16
 <br>
 <img src="docs/features/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
 
-#### Google Maps Section
+### Google Maps Section
 * Allows new customers to locate the restaurant
 * Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
 * **Stories covered:** 1, 7
 <br>
 <img src="docs/features/f-map.png" alt="Maps section" title="Google Maps Section">
 
-#### Menu Section
+### Menu Section
 * Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
 * Informs new and returning customers of the variaties of the main menu depending on time of day
 * **Stories covered:** 2, 11, 17
 <br>
 <img src="docs/features/f-menu.png" alt="Menu section" title="Main Menu Section">
 
-#### Amenities Section
+### Amenities Section
 * Provides new and returning customers with an up to date list of available room rentals
 * Informs new and returning customers of the differences in each available bed and breakfast option
 * **Stories covered:** 7, 14
 <br>
 <img src="docs/features/f-amenities.png" alt="Rooms section" title="Amenities Section">
 
-#### Gallery Section
+### Gallery Section
 * Provides new and returning customers with a visually appealing and responsive assortment of relevant photos
 * **Stories covered:** 14
 <br>
 <img src="docs/features/f-gallery.png" alt="Gallery section" title="Gallery Section">
 
-#### Footer
+### Footer
 * Informs new and returning customers of up to date opening times
 * Provides new and returning customers with the restaurant's location, phone number as well as e-mail address
 * Invites new and returning customers to visit the social media of the business
@@ -210,9 +214,9 @@ The website consists of X pages and Y features
 <br>
 <img src="docs/features/f-footer.png" alt="Footer section" title="Footer Section">
 
-### Testing of the Webpage
+## Testing of the Webpage
 
-#### HTML Validation
+### HTML Validation
 
 <details>
   <summary>Home Page</summary>
@@ -229,7 +233,7 @@ The website consists of X pages and Y features
   <img src="docs/testing/v-amenities.png" alt="Validation of Amenities Page" title="Menu and Amenities Page Validation">
 </details>
 
-#### CSS Validation
+### CSS Validation
 
 <details>
   <summary>style.css</summary>
@@ -237,7 +241,7 @@ The website consists of X pages and Y features
   <img src="docs/testing/v-style2.png" alt="Validation of style.css" title="style.css Validation">
 </details>
 
-#### Accessibility
+### Accessibility
 
 <details>
   <summary>Home Page</summary>
@@ -254,7 +258,7 @@ The website consists of X pages and Y features
   <img src="docs/testing/a-amenities.png" alt="Accessibility of menu" title="Menu and Amenities Page Validation">
 </details>
 
-#### Performance
+### Performance
 
 <details>
   <summary>Home Page</summary>
@@ -271,7 +275,7 @@ The website consists of X pages and Y features
   <img src="docs/testing/p-amenities.png" alt="Performance of menu" title="Menu and Amenities Page Performance">
 </details>
 
-### Encountered Bugs
+## Encountered Bugs
 
 | Bug | Potential Fix |
 | ------------- |:-------------:|
@@ -280,7 +284,7 @@ The website consists of X pages and Y features
 | Google Maps window always adjusting to full width of display | Reduce values of vh and vw |
 | Header not keeping a rigid form | Reduce values of vh and vw OR envelop code in @media tag and set dimensions OR break text |
 
-### Deployment
+## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
 
@@ -289,9 +293,9 @@ The website was deployed using GitHub Pages by following these steps:
 3. For the source of your repo select *branch: main*
 4. After the webpage refreshes, you will see a ribbon on the top saying: *"Your site is published at https://ravopl.github.io/narrows-portaferry/"*
 
-### Credits
+## Credits
 
-#### Media
+### Media
 
 * [Wedding Table Photo](https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg)
 * [Restaurant Table Photo One](https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg)
@@ -306,7 +310,7 @@ The website was deployed using GitHub Pages by following these steps:
 * [Amenities Banner Photo Two](https://www.mercersburginn.com/wp-content/uploads/2015/11/MarieClaire-slide.jpg)
 * [Amenities Banner Photo Three](https://ssl.latcdn.com/img/ye3GO0n3z-georgia.jpg)
 
-#### Code and Assets
+### Code and Assets
 * [Font Awesome 5 Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 * [Footer Code](https://www.youtube.com/watch?v=f4J3uaNNYTE)
 * [Responsive Gallery Code](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
