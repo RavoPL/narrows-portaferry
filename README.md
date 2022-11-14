@@ -62,7 +62,7 @@ in Online Reservations (right now they're not shrinking properly)
 10. I'd like to see the menu, with a clear pricing list and names of dishes.
 11. I want to make orders without having to make a separate account just for this purpose.
 12. I would want to find clickable icons to access social media.
-13. I'd like to see the directions to the restaurant and any interesting tourist hotspots in the surrounding area.
+13. I'd like to see a gallery of relevant photos so I can see the facilities in the establishment.
 
 #### Webpage Owner
 
@@ -172,9 +172,16 @@ The website consists of X pages and Y features
 #### Google Maps Section
 * Allows new customers to locate the restaurant
 * Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
-* **Stories covered:** 1, 6, 13
+* **Stories covered:** 1, 6
 <br>
 <img src="docs/wireframes/f-map.png" alt="Maps section" title="Google Maps Section">
+
+#### Menu Section
+* Provides new and returning customers with an up to date main menu, with accurate names, prices and descriptions
+* Informs new and returning customers of the variaties of the main menu depending on time of day
+* **Stories covered:** 2, 10, 16
+<br>
+<img src="docs/wireframes/f-menu.png" alt="Menu section" title="Main Menu Section">
 
 #### Footer
 * Informs new and returning customers of up to date opening times
