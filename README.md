@@ -211,7 +211,7 @@ The website consists of X pages and Y features
 ### Google Maps Section
 * Allows new customers to locate the restaurant
 * Allows new and returning customers to scout for points of interest in the surrounding area without having to open another tab
-* **Stories covered:** 1, 7
+* **Stories covered:** 1, 6
 <br>
 <img src="docs/features/f-map.png" alt="Maps section" title="Google Maps Section">
 
@@ -337,6 +337,38 @@ In the future I plan on adding a dynamic user review section that displays custo
 
 4. *I'd want to be able to make orders from the webpage without having to make a separate account.*
 <br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Online Reservation form | Locate and submit an Online Reservation form | Click 'Contact' and scroll to the Online Reservation form, fill it out | Works as Intended |
+
+5. *I want to know more about the restaurant and the people that work there.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| About Us section | Locate About Us section providing information about the business | Click 'About' and read the section | Works as Intended |
+
+6. *I'd love to know about any points of interest close to the restaurant's accommodation.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Google Maps frame | Locate a mini frame showing nearby points of interest | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
+
+7. *I'd like to see what bed and breakfast options are available in the establishment.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Amenities section | Locate up to date Amenities section showing accommodation | Navigate to 'Menu and Amenities' in the nav bar, scroll to 'Amenities' section | Works as Intended |
+
+8. *As a returning customer, I'd like to see an expanded list of special offers.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Amenities section | Locate up to date Amenities section showing accommodation | Navigate to 'Menu and Amenities' in the nav bar, scroll to 'Amenities' section | Works as Intended |
 
 ## Known Bugs
 
