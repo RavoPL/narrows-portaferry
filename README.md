@@ -176,6 +176,14 @@ The website consists of X pages and Y features
 <br>
 <img src="docs/wireframes/f-map.png" alt="Maps section" title="Google Maps Section">
 
+#### Footer
+* Informs new and returning customers of up to date opening times
+* Provides new and returning customers with the restaurant's location, phone number as well as e-mail address
+* Invites new and returning customers to visit the social media of the business
+* **Stories covered:** 1, 3, 8, 9, 12, 14
+<br>
+<img src="docs/wireframes/f-footer.png" alt="Footer section" title="Footer Section">
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
