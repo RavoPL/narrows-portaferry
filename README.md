@@ -78,6 +78,8 @@ The webpage was designed with the idea of a seaside marina restaurant in mind. T
 
 #### Colour and Fonts
 
+![alt text](https://raw.githubusercontent.com/RavoPL/narrows-portaferry/master/docs/features/adobe-color-wheel.jpg "Adobe Color Wheel")
+
 Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
 
 #### Structure
@@ -97,6 +99,7 @@ Colour tones associated with the sea were chosen as basis for the colour palette
 * GitHub
 * GitPod
 * Google Fonts
+* Adobe Color
 * Adobe Photoshop
 
 ### Features
@@ -117,15 +120,19 @@ Colour tones associated with the sea were chosen as basis for the colour palette
 
 ### Credits
 
-* (https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg "Wedding Table Photo")
-* Restaurant Table Photo One from: https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg
-* Restaurant Table Photo Two from: https://burst.shopifycdn.com/photos/flatlay-iron-skillet-with-meat-and-other-food.jpg?width=1200&format=pjpg&exif=1&iptc=1
-* Narrows Portaferry Logo (origianally made by me): https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png
-* Narrows Portaferry Front Photo: https://www.facebook.com/narrowsguesthouse/
-* Portaferry View Photo: https://celticcanada.com/wp-content/uploads/2018/08/charming-villages-ni-portaferry.jpg
-* Photos for the Gallery: https://www.facebook.com/narrowsguesthouse/
-* Menu Banner Photo One: https://www.jetsetter.com//uploads/sites/7/2018/04/t_Px07Lv-1380x690.jpeg
-* Menu Banner Photo Two: https://cdn-ds.com/blogs-media/sites/223/2020/11/12184137/LXT-top-1112_b.jpg
-* Font Awesome 5 Icons: https://www.w3schools.com/icons/fontawesome5_intro.asp
-* Footer Code: https://www.youtube.com/watch?v=f4J3uaNNYTE
-* Responsive Gallery Code: https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea
+#### Media
+
+* [Wedding Table Photo](https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg)
+* [Restaurant Table Photo One](https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg)
+* [Restaurant Table Photo Two](https://burst.shopifycdn.com/photos/flatlay-iron-skillet-with-meat-and-other-food.jpg?width=1200&format=pjpg&exif=1&iptc=1)
+* [Narrows Portaferry Logo (originally made by me)](https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png)
+* [Narrows Portaferry Front Photo](https://www.facebook.com/narrowsguesthouse/)
+* [Portaferry View Photo](https://celticcanada.com/wp-content/uploads/2018/08/charming-villages-ni-portaferry.jpg)
+* [Photos for the Responsive Gallery](https://www.facebook.com/narrowsguesthouse/)
+* [Menu Banner Photo One](https://www.jetsetter.com//uploads/sites/7/2018/04/t_Px07Lv-1380x690.jpeg)
+* [Menu Banner Photo Two](https://cdn-ds.com/blogs-media/sites/223/2020/11/12184137/LXT-top-1112_b.jpg)
+
+#### Code and Assets
+* [Font Awesome 5 Icons](https://www.w3schools.com/icons/fontawesome5_intro.asp)
+* [Footer Code](https://www.youtube.com/watch?v=f4J3uaNNYTE)
+* [Responsive Gallery Code](https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea)
