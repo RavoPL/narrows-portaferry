@@ -143,10 +143,14 @@ The website consists of X pages and Y features
 
 #### About Us Section
 * It provides a description of the business and staff as well as some bits of history
-* Stories covered: 5
+* **Stories covered:** 5, 16
 <img src="docs/wireframes/f-aboutus.png" alt="About us section" title="About Us Section">
 
 #### Special Offers Section
+* Highly informative section of the main page that grants the user news of currently ongoing special offers
+* Divided by narrow images, it easily 'pops' into view and attracts a customer's attention
+* **Stories covered:** 2, 3, 7, 16
+<img src="docs/wireframes/f-specialoffers.png" alt="Special offers section" title="Special Offers Section">
 
 ### Testing of the Webpage
 
