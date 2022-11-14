@@ -157,6 +157,12 @@ The website consists of X pages and Y features
 * **Stories covered:** 3, 16
 <img src="docs/wireframes/f-specialevents.png" alt="Special events section" title="Special Events Section">
 
+#### Online Reservations Form
+* Crucial part of the Home page that allows new and returning customers to make orders without the need to have a dedicated account
+* Allows new and returning customers to contact the owner directly without having to resort to e-mail communication
+* **Stories covered:** 4, 11, 14, 15
+<img src="docs/wireframes/f-onlinereservations.png" alt="Online reservations section" title="Reservation Form">
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
