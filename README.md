@@ -1,10 +1,9 @@
 # Narrows Portaferry
-Developed by Dorian Wolarz, Code Institute Student
+Developed by Dorian Wolarz, a Code Institute Student
 
 'Placeholder Area for Main Image'
 
-* THINGS TO FIX: Screen size adjustments for the image in Special Events section and for the form
-in Online Reservations (right now they're not shrinking properly)
+[LINK TO LIVE WEBPAGE](https://ravopl.github.io/narrows-portaferry/)
 
 ## Contents
 
@@ -268,11 +267,21 @@ The website consists of X pages and Y features
 
 ### Encountered Bugs
 
-'Placeholder for the Bugs Section'
+| Bug | Potential Fix |
+| ------------- |:-------------:|
+| Online Reservation Form not downsizing below a certain dimension size | Envelop code in @media tag and set dimensions |
+| Footer stretching the page dimensions above a desired size | Envelop code in @media tag and set dimensions |
+| Google Maps window always adjusting to full width of display | Reduce values of vh and vw |
+| Header not keeping a rigid form | Reduce values of vh and vw OR envelop code in @media tag and set dimensions OR break text |
 
 ### Deployment
 
-'Placeholder for the Deployment Section'
+The website was deployed using GitHub Pages by following these steps:
+
+1. In your GitHub repository navigate to the *Settings* tab
+2. In the menu on the left hand side select *Pages*
+3. For the source of your repo select *branch: main*
+4. After the webpage refreshes, you will see a ribbon on the top saying: *"Your site is published at https://ravopl.github.io/narrows-portaferry/"*
 
 ### Credits
 
