@@ -243,6 +243,10 @@ The website consists of X pages and Y features
 <br>
 <img src="docs/features/f-footer.png" alt="Footer section" title="Footer Section">
 
+### Features Left to Implement
+
+In the future I plan on adding a dynamic user review section that displays customer reviews, a carousel for banner images, resize various aspects of the webpage to fit better on-screen and look cleaner, as well as create separate pages for the Contact and About Us buttons in the navigation bar
+
 ## Testing of the Webpage
 
 ### HTML Validation
@@ -304,7 +308,20 @@ The website consists of X pages and Y features
   <img src="docs/testing/p-amenities.png" alt="Performance of menu" title="Menu and Amenities Page Performance">
 </details>
 
-## Encountered Bugs
+### Testing of Customer, Returning Customer and Webpage Owner Stories
+
+1. *As a new user I want to know where exactly the restaurant is located.*
+<br>
+
+| **Feature**  | **Expected Result** | **Action Taken** | **Result** |
+| ------------- | ------------- | ------------- | ------------- |
+| Google Maps Frame  | Locate a mini frame showing accurate location of restaurant  | Navigate to 'Contact' in the nav bar, see Google Maps frame | Works as Intended |
+| Restaurant location in Footer  | Locate the listed restaurant location in the footer  | Navigate to 'Contact' in the nav bar, see Footer on the bottom | Works as Intended  |
+
+2. I want to know the price range so I can compare it with other restaurants in the area.
+<br>
+
+## Known Bugs
 
 | Bug | Potential Fix |
 | ------------- |:-------------:|
