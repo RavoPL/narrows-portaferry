@@ -141,6 +141,13 @@ The website consists of X pages and Y features
 * Displays a specific photo associated with 'The Narrows' restaurant for visual significance
 <img src="docs/wireframes/f-banner.png" alt="Main banner on all pages" title="Main Banner Image">
 
+#### About Us Section
+* It provides a description of the business and staff as well as some bits of history
+* Stories covered: 5
+<img src="docs/wireframes/f-aboutus.png" alt="About us section" title="About Us Section">
+
+#### Special Offers Section
+
 ### Testing of the Webpage
 
 'Placeholder for the Long Testing Section'
