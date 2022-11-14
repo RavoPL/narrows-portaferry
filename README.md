@@ -1,5 +1,5 @@
 # Narrows Portaferry
-(Developer and Author: Dorian Wolarz, Code Institute Student)
+Developed by Dorian Wolarz, Code Institute Student
 
 'Placeholder Area for Main Image'
 
@@ -74,7 +74,11 @@ in Online Reservations (right now they're not shrinking properly)
 
 #### Design Choices
 
+The webpage was designed with the idea of a seaside marina restaurant in mind. The general aesthetic of the website is meant to be clean, organized and easily navigatable. The content of the webpage is neatly divided among sections and sub-sections to make the experience easy on the customer.
+
 #### Colour and Fonts
+
+Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
 
 #### Structure
 
@@ -113,7 +117,7 @@ in Online Reservations (right now they're not shrinking properly)
 
 ### Credits
 
-* Wedding Table Photo from: https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg
+* (https://www.trulyengaging.com/wp-content/uploads/2011/09/black-headtable.jpg "Wedding Table Photo")
 * Restaurant Table Photo One from: https://tablefoodanddrink.com/assets/images/slider/_970x450_crop_center-center_75_none/88.jpg
 * Restaurant Table Photo Two from: https://burst.shopifycdn.com/photos/flatlay-iron-skillet-with-meat-and-other-food.jpg?width=1200&format=pjpg&exif=1&iptc=1
 * Narrows Portaferry Logo (origianally made by me): https://images.squarespace-cdn.com/content/v1/5feb2f1ea55e935ca8ec25d7/1612287749630-9V8B19RDPHRQJL9MCBCZ/NarrowsPortaferry_PNG.png
