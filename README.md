@@ -226,7 +226,11 @@ The website consists of X pages and Y features
 
 #### CSS Validation
 
-
+<details>
+  <summary>style.css</summary>
+  <img src="docs/testing/v-style1.png" alt="Validation of style.css" title="style.css Validation">
+  <img src="docs/testing/v-style2.png" alt="Validation of style.css" title="style.css Validation">
+</details>
 
 ### Encountered Bugs
 
