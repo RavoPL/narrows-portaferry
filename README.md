@@ -79,13 +79,29 @@ The webpage was designed with the idea of a seaside marina restaurant in mind. T
 #### Colour and Fonts
 
 ![Image of Adobe Color Wheel](docs/features/adobe-color-wheel.png)
-![Image of Adobe Color Wheel](https://github.com/RavoPL/narrows-portaferry/docs/features/adobe-color-wheel.jpg? "Adobe Color Wheel")
 
 Colour tones associated with the sea were chosen as basis for the colour palette of the webpage as the website is meant to emulate the vibe of a seaside marina. As such, the main colour is turquoise and the font colour is navy, which works well with the restaurant logo as well. For the fonts I chose Open Sans and Source Sans Pro from Google Fonts because they compliment one another very effectively. Arial was chosen as the backup font in case the previous two refuse to load because it's a neat, basic font that will display without any issues on all devices and software.
 
 #### Structure
 
+The website is structured in a user friendly way that makes navigation of its contents extremely easy and pleasing to the eye. The most vital of information which can be stored on one page (*Home, About and Contact*) is done so through a hyperlink connection and relevant information in the webpage's footer section. Other equally vital information which need its own respective pages are stored in the *Gallery* and *Menu and Amenities* pages. As such, the website consists of three separate pages:
+* The Home Page, with its About and Contact sections down the bottom of the page which can be accessed with just one click
+* The Gallery Page, with its responsive gallery to enhance a customer's experience and give a glimpse into the restaurant facilities
+* The Menu and Amenities Page, which stores both the menu and the room rental sections
+
 #### Wireframes
+
+<details>
+  <summary>Home, About and Contact</summary>
+</details>
+
+<details>
+  <summary>Gallery</summary>
+</details>
+
+<details>
+  <summary>Menu and Amenities</summary>
+</details>
 
 ### Technologies Used
 
@@ -102,6 +118,7 @@ Colour tones associated with the sea were chosen as basis for the colour palette
 * Google Fonts
 * Adobe Color
 * Adobe Photoshop
+* Balsamiq
 
 ### Features
 
