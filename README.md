@@ -249,6 +249,8 @@ The website consists of X pages and Y features
   <img src="docs/testing/a-amenities.png" alt="Accessibility of menu" title="Menu and Amenities Page Validation">
 </details>
 
+#### Performance
+
 ### Encountered Bugs
 
 'Placeholder for the Bugs Section'
