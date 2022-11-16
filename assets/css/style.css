@@ -33,7 +33,9 @@ nav {
     }
     .navigationBar, ul, li {
         display: inline;
-        font-size: 70%;
+        overflow: hidden;
+        width: 400px;
+        line-height: 2em;
     }
 }
 
