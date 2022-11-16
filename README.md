@@ -43,7 +43,7 @@ Developed by **Dorian Wolarz**, a Code Institute Student
     - [Accessibility](#accessibility)
     - [Performance](#performance)
     - [Testing of Customer, Returning Customer and Webpage Owner Stories](#testing-of-customer-returning-customer-and-webpage-owner-stories)
-7. [Encountered Bugs](#encountered-bugs)
+7. [Known Bugs](#known-bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
     - [Media](#media)
@@ -441,12 +441,20 @@ In the future I plan on adding a dynamic user review section that displays custo
 
 ## Known Bugs
 
-| Bug | Potential Fix |
+### Unfixed Bugs
+
+| Encountered Bug | Potential Fix |
 | ------------- |:-------------:|
 | Online Reservation Form not downsizing below a certain dimension size | Envelop code in @media tag and set dimensions |
-| Footer stretching the page dimensions above a desired size | Envelop code in @media tag and set dimensions |
 | Google Maps window always adjusting to full width of display | Reduce values of vh and vw |
-| Header not keeping a rigid form | Reduce values of vh and vw OR envelop code in @media tag and set dimensions OR break text |
+
+### Fixed Bugs
+
+| Encountered Bug | The Fix Used |
+| ------------- |:-------------:|
+| Online Reservation Form not downsizing below a certain dimension size | Envelop code in @media tag and set dimensions |
+| Footer stretching the page dimensions above a desired size | Enveloped code in @media tag and reduced font size below 700px while giving margins value of 0 |
+| Header not keeping a rigid form | Wrapped navbar into a div class and styled it within a @media query to reduce font size below 700px and keep text aligned |
 
 ## Deployment
 
