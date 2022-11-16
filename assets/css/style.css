@@ -407,6 +407,14 @@ hr {
     width: auto;
 }
 
+@media (max-width: 700px){
+    .reservations-section, .reservations-section a, textarea {
+        height: auto;
+        position:relative;
+        width:80%;
+    }
+}
+
 /* google maps frame */
 
 .maps-section {

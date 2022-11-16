@@ -445,15 +445,14 @@ In the future I plan on adding a dynamic user review section that displays custo
 
 | Encountered Bug | Potential Fix |
 | ------------- |:-------------:|
-| Online Reservation Form not downsizing below a certain dimension size | Envelop code in @media tag and set dimensions |
 | Google Maps window always adjusting to full width of display | Reduce values of vh and vw |
 
 ### Fixed Bugs
 
 | Encountered Bug | The Fix Used |
 | ------------- |:-------------:|
-| Online Reservation Form not downsizing below a certain dimension size | Envelop code in @media tag and set dimensions |
-| Footer stretching the page dimensions above a desired size | Enveloped code in @media tag and reduced font size below 700px while giving margins value of 0 |
+| Online Reservation Form not downsizing below a certain dimension size | Enveloped code in @media tag and styled it to a relative position, 80% of width and a height value of auto|
+| Footer stretching the page dimensions above a desired size | Enveloped code in @media tag and styled it to reduced font size below 700px while giving margins value of 0 |
 | Header not keeping a rigid form | Wrapped navbar into a div class and styled it within a @media query to reduce font size below 700px and keep text aligned |
 
 ## Deployment
