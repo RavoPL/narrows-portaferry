@@ -458,6 +458,14 @@ footer {
     margin: 20px 0 0 0;
 }
 
+@media (max-width: 700px){
+    footer, .box h2 {
+        font-size: 70%;
+        margin-bottom: 0;
+        margin-top: 0!important;
+    }
+}
+
 /* style options for gallery, by Tim Wells, credited in readme.md (https://timnwells.medium.com/create-a-simple-responsive-image-gallery-with-html-and-css-fcb973f595ea) */
 
 #gallery {
