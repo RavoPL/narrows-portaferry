@@ -28,10 +28,12 @@ nav {
 }
 
 @media (max-width: 700px){
-    nav {
-        font-family: 'Source Sans Pro', 'Open Sans', 'Arial';
-        font-style: normal;
-        font-size: 60%;
+    .navigationBar {
+        text-align: center;
+    }
+    .navigationBar, ul, li {
+        display: inline;
+        font-size: 70%;
     }
 }
 
